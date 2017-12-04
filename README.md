@@ -1,2 +1,2 @@
 # java
-#indivual programs
+#individual programs
